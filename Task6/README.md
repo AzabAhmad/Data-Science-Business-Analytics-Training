@@ -3,8 +3,11 @@
 We will work on 'iris' dataset, create a Decision Tree classifier and visualize it graphically.
 
 Dataset URL: https://bit.ly/3kXTdox
+
 YouTube: https://youtu.be/7XlIvNDu0t8
+
 Language: Python
+
 IDE: Google Colab
 
 Solution steps:
